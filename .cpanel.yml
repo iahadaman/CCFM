@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/tt594px7nak2/chitchatfm.live/chat
+    - /bin/cp * $DEPLOYPATH
